@@ -331,8 +331,9 @@ $mid-font-size: 2.5rem; */
     padding-bottom: 4em;
   }
   .project-section img {
-    padding-top: 1em;
+    /* padding-top: 1em;
     padding-bottom: 1em;
+    */
   }
 
   .project-section .see-live {
